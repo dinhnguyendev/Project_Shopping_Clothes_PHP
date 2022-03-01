@@ -1,0 +1,123 @@
+*{
+    box-sizing: inherit;
+}
+html{
+    line-height: 16px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.grid{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.grid-pay{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 60px;
+}
+.grid-account{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+   
+}
+
+.grid-details{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+.grid-details-footer{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    margin-top: 20px;
+}
+.grid-product{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
+.grid-page{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+    
+  
+   
+}
+.grid-footer{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
+.grid-address{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.grid-full-width{
+    width: 100%;
+}
+.grid-row{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    margin-top: -17px;
+}
+.grid-row-footer{
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.grid-column{
+    
+    width: 100%;
+}
+.grid-column-2{
+    padding-left: 5px;
+    padding-right: 5px;
+    width: calc(100% / 6);
+    
+}
+
+.grid-column-footer-2{
+    
+    width: 20%;
+}
+.container{
+    background-color: #F5F5F5;
+}
+/* css page */
+.hr{
+    
+    width: 100%;
+    border-bottom: 4px solid #EE4D2D;
+    
+}
+ 
+.hr-footer{
+    width: 100%;
+    border-bottom: 2px solid #E8E8E8;
+    margin-top: 60px;
+}
+.footer-hr-color{
+    border-bottom: 2px solid #E8E8E8;
+}
+.grid-column-number-2{
+    width: 180px;
+    padding-top: 15px;
+}
+.grid-column-number-10{
+   
+    width: 100%;
+    
+}
